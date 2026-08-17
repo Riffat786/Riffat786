@@ -208,11 +208,11 @@ It's to explore how **documentation itself can become part of an intelligent, au
 
 |                                |                                                                                                   |
 | ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| 📚 **Documentation Portfolio** | [Explore my documentation work](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) |
-| 💼 **Portfolio & CV**          | [View my professional portfolio](https://riffat786.github.io/portfolio/)                          |
-| 🎓 **Learning Hub**            | [Explore my learning journey](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)            |
-| 🤖 **AI Projects**             | [View my GitHub projects](https://github.com/Riffat786)                                           |
-| 💼 **LinkedIn**                | [Connect with me](https://www.linkedin.com/in/riffatwyne)                                         |
+| **Documentation Portfolio** | [Explore my documentation work](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) |
+| **Portfolio & CV**          | [View my professional portfolio](https://riffat786.github.io/portfolio/)                          |
+| **Learning Hub**            | [Explore my learning journey](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)            |
+| **AI Projects**             | [View my GitHub projects](https://github.com/Riffat786)                                           |
+| **LinkedIn**                | [Connect with me](https://www.linkedin.com/in/riffatwyne)                                         |
 
 ---
 

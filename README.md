@@ -248,10 +248,10 @@ Experiments, exercises and practical work from my AI learning journey.
 ## Certifications & Learning
 
 ### Certifications
-![AI Certified Technical Writer](https://img.shields.io/badge/-AI%20Certified%20Technical%20Writer-FF6B6B?style=flat-square&logoColor=white)
-![Claude 101](https://img.shields.io/badge/-Claude%20101-4A90E2?style=flat-square&logoColor=white)
-![Claude Cowork](https://img.shields.io/badge/-Claude%20Cowork-6F42C1?style=flat-square&logoColor=white)
-![Introduction to Agent Skills](https://img.shields.io/badge/-Agent%20Skills-161B22?style=flat-square&logoColor=white)
+[![AI Certified Technical Writer](https://img.shields.io/badge/-AI%20Certified%20Technical%20Writer-FF6B6B?style=flat-square&logoColor=white)](https://www.linkedin.com/in/riffatwyne/)
+[![Claude 101](https://img.shields.io/badge/-Claude%20101-4A90E2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/riffatwyne/)
+[![Claude Cowork](https://img.shields.io/badge/-Claude%20Cowork-6F42C1?style=flat-square&logoColor=white)](https://www.linkedin.com/in/riffatwyne/)
+[![Introduction to Agent Skills](https://img.shields.io/badge/-Agent%20Skills-161B22?style=flat-square&logoColor=white)](https://www.linkedin.com/in/riffatwyne/)
 
 ### Currently Exploring
 `Docs-as-Code` · `Git & GitHub` · `APIs` · `CI/CD` · `AI` · `Agentic AI` · `MCP` · `Prompt Engineering`

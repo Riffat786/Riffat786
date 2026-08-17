@@ -324,10 +324,10 @@ Experiments, exercises and practical work from my AI learning journey.
 ---
 
 ## Open to Collaborating On:
-- Documentation strategy & transformation projects
-- Docs-as-Code implementations  
-- AI-assisted documentation automation
-- Technical writing mentorship & training
+Documentation strategy & transformation projects
+Docs-as-Code implementations  
+AI-assisted documentation automation
+Technical writing mentorship & training
 
 **Get in touch**: [Email](mailto:riffatwyne@hotmail.com) · [LinkedIn](https://linkedin.com/in/riffatwyne) · [Documentation Portfolio](link)
 

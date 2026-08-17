@@ -289,27 +289,24 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-### Contribution Stats
+### My GitHub Profile
 
-<p align="center">
-  <a href="https://github.com/Riffat786">
-    <img src="https://streak.lawlzer.com?user=Riffat786&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+| Metric | Link |
+|--------|------|
+| **View my repositories** | [Riffat786's GitHub](https://github.com/Riffat786) |
+| **Recent activity** | [GitHub contributions](https://github.com/Riffat786?tab=repositories) |
+| **Featured projects** | [See below](#latest-projects) |
 
-<p align="center">
-  <a href="https://github.com/Riffat786">
-    <img src="https://github-readme-stats.vercel.app/api?username=Riffat786&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+### GitHub Insights
 
-<p align="center">
-  <a href="https://github.com/Riffat786">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riffat786&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+- **Active projects:** AI Release Note Generator, AI Learning Lab, Docs-as-Code
+- **Primary languages:** Python, Markdown, YAML, HTML/CSS
+- **Focus areas:** Documentation automation, Docs-as-Code, AI tools
+- **Latest activity:** Contributing to documentation and AI projects
+
+**[View full GitHub profile →](https://github.com/Riffat786)**
 
 ### Latest Projects
 - [AI-Release-Note-Generator](https://github.com/Riffat786/AI-Release-Note-Generator) — AI-powered release note automation
@@ -333,7 +330,6 @@ Experiments, exercises and practical work from my AI learning journey.
 - Technical writing mentorship & training
 
 **Get in touch**: [Email](mailto:riffatwyne@hotmail.com) · [LinkedIn](https://linkedin.com/in/riffatwyne) · [Documentation Portfolio](link)
-
 
 <br>
 

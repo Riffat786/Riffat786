@@ -47,7 +47,7 @@ Docs-as-Code, AI automation, and agentic systems.
 ## Current Focus
 - Building **intelligent documentation systems** that integrate with CI/CD and engineering workflows
 - Exploring **Agentic AI & MCP** for documentation automation
-- Teaching documentation strategy through [Learning Hub](link)
+- Teaching documentation strategy through [Learning Hub](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)
 
 ---
 
@@ -186,7 +186,7 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## 📚 Latest Articles & Thought Leadership
+## Latest Articles & Thought Leadership
 
 | Title | Platform | Date |
 |-------|----------|------|
@@ -245,7 +245,7 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## 🎓 Certifications & Learning
+## Certifications & Learning
 
 ### Certifications
 ![AI Certified Technical Writer](https://img.shields.io/badge/-AI%20Certified%20Technical%20Writer-FF6B6B?style=flat-square&logoColor=white)
@@ -289,7 +289,7 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -310,9 +310,9 @@ Experiments, exercises and practical work from my AI learning journey.
 <br>
 
 ### Latest Projects
-- 🚀 [AI-Release-Note-Generator](https://github.com/Riffat786/AI-Release-Note-Generator) — AI-powered release note automation
-- 🎓 [ai-learning-lab](https://github.com/Riffat786/ai-learning-lab) — AI experiments and exercises  
-- 📖 [Start-Docs-as-Code-with-Me](https://github.com/Riffat786/Start-Docs-as-Code-with-Me) — Practical documentation learning project
+- [AI-Release-Note-Generator](https://github.com/Riffat786/AI-Release-Note-Generator) — AI-powered release note automation
+- [ai-learning-lab](https://github.com/Riffat786/ai-learning-lab) — AI experiments and exercises  
+- [Start-Docs-as-Code-with-Me](https://github.com/Riffat786/Start-Docs-as-Code-with-Me) — Practical documentation learning project
 
 ---
 

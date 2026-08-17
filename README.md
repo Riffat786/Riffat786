@@ -190,11 +190,11 @@ Experiments, exercises and practical work from my AI learning journey.
 
 | Title | Platform | Date |
 |-------|----------|------|
-| [Building Documentation Systems with AI](https://riffat786.github.io/Start-Docs-as-Code-with-Me/) | Learning Hub | 2024 |
-| [Docs-as-Code: From Markdown to Publishing](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) | Documentation Portfolio | 2024 |
-| [AI Release Note Automation: A Case Study](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio/case-studies/ai-release-note-generator/) | Case Study | 2024 |
+| [Building Documentation Systems with AI](https://riffat786.github.io/Start-Docs-as-Code-with-Me/blog/from-learning-ai-to-building-a-real-world-automation) | Learning Hub | 2026 |
+| [Docs-as-Code: From Markdown to Publishing](https://riffat786.github.io/Start-Docs-as-Code-with-Me/blog/future-of-technical-writing-roadmap) | Documentation Portfolio | 2026 |
+| [AI Release Note Automation: A Case Study](https://riffat786.github.io/Start-Docs-as-Code-with-Me/blog/from-learning-ai-to-building-a-real-world-automation) | Case Study | 2026 |
 
-**📖 [Read more articles on my blog →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)**
+**📖 [Read more articles on my blog →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/insights)**
 
 ---
 

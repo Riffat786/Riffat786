@@ -1,223 +1,266 @@
-# Riffat Wyne
+<div align="center">
 
-### Documentation Manager | Senior Technical Writer | Docs-as-Code | AI for Documentation
+# Hi, I'm Riffat Wyne
 
-I build and improve technical documentation systems that connect **content, people, technology and engineering workflows**.
+### Documentation Manager · Senior Technical Writer · Docs-as-Code · AI for Documentation
 
-My current focus is at the intersection of **technical documentation, Docs-as-Code, AI, automation and modern software development practices**.
+**Building better documentation systems at the intersection of content, technology, engineering and AI.**
 
-[Documentation Portfolio](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) · [ Portfolio & CV](https://riffat786.github.io/portfolio/) · [ Learning Hub](https://riffat786.github.io/Start-Docs-as-Code-with-Me/) · [ LinkedIn](https://www.linkedin.com/in/riffatwyne)
+<br>
+
+<a href="https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio">
+<img src="https://img.shields.io/badge/%20Documentation%20Portfolio-4A90E2?style=for-the-badge" alt="Documentation Portfolio">
+</a>
+<a href="https://riffat786.github.io/portfolio/">
+<img src="https://img.shields.io/badge/%20Portfolio%20%26%20CV-2D333B?style=for-the-badge" alt="Portfolio and CV">
+</a>
+<a href="https://riffat786.github.io/Start-Docs-as-Code-with-Me/">
+<img src="https://img.shields.io/badge/%20Learning%20Hub-6F42C1?style=for-the-badge" alt="Learning Hub">
+</a>
+<a href="https://github.com/Riffat786?tab=repositories">
+<img src="https://img.shields.io/badge/%20AI%20Projects-161B22?style=for-the-badge" alt="AI Projects">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/riffatwyne">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/Riffat786">
+<img src="https://img.shields.io/badge/GitHub-Riffat786-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
-## What I Do
+## What I Build
+I build and improve technical documentation systems that connect content, people, technology and engineering workflows.
 
-* **Documentation strategy and governance**
-* **Technical and user documentation**
-* **Docs-as-Code and structured content**
-* **AI-assisted documentation and agent workflows**
-* **Prompt Engineering and AI tools**
-* **API documentation**
-* **Documentation automation and CI/CD**
-* **Knowledge management and information architecture**
-* **Technical Writer leadership and mentoring**
-* **Documentation process and workflow improvement**
+My current focus is at the intersection of technical documentation, Docs-as-Code, AI, automation and modern software development practices.
+
+<table>
+<tr>
+<td width="50%">
+
+### Documentation
+
+Documentation strategy, governance, information architecture, technical documentation and user assistance.
+
+</td>
+<td width="50%">
+
+### Docs-as-Code
+
+Markdown, Git, GitHub, CI/CD and modern documentation publishing workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### AI for Documentation
+
+AI-assisted authoring, Prompt Engineering, agent workflows and documentation automation.
+
+</td>
+<td width="50%">
+
+### Documentation Leadership
+
+Team leadership, mentoring, process improvement, stakeholder collaboration and documentation transformation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Exploring AI for Documentation
+## What I'm Exploring
 
-I'm exploring how AI can move documentation beyond content generation into **intelligent documentation workflows**.
-
-Current areas of experimentation include:
+I'm interested in how documentation can become part of the **engineering workflow**, rather than remaining a separate activity at the end of a release.
 
 ```text
-AI-assisted authoring
-        ↓
-Prompt Engineering
-        ↓
-Agentic workflows
-        ↓
-Content analysis
-        ↓
-Documentation automation
-        ↓
-Review & quality checks
-        ↓
-Publishing workflows
+Documentation
+      ↓
+Docs-as-Code
+      ↓
+Git + GitHub
+      ↓
+CI/CD + Automation
+      ↓
+APIs + Engineering Workflows
+      ↓
+AI-assisted Documentation
+      ↓
+Agentic AI + MCP
 ```
 
-I'm particularly interested in how AI can help documentation teams improve **quality, consistency, discoverability and productivity** while keeping human review and documentation governance in the workflow.
+> **The goal isn't simply to use AI to write documentation.**
+>
+> The goal is to explore how documentation can become **intelligent, maintainable, automated and integrated with the way software is built.**
 
 ---
 
-## My Documentation Portfolio
+## Featured Work
+
+<table>
+<tr>
+<td width="50%">
 
 ### Start Docs-as-Code with Me
 
-A practical project exploring the journey from traditional documentation workflows to modern Docs-as-Code.
+A practical documentation project exploring:
 
-**Markdown → Git → GitHub → CI/CD → Documentation Sites**
+**Markdown → Git → GitHub → CI/CD → Publishing**
 
-The project contains two connected experiences:
+Includes my **Documentation Portfolio** and **Learning Hub**.
 
-### 📖 Documentation Portfolio
+<br>
 
-Examples of documentation work, projects and experiments.
+**[Explore Documentation Portfolio →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio)**
 
-➡️ **[Explore the Documentation Portfolio](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio)**
+**[Explore Learning Hub →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)**
 
-### 🎓 Learning Hub
+</td>
 
-A practical learning space covering the tools, technologies and workflows I'm exploring while building my Docs-as-Code and AI capabilities.
-
-➡️ **[Explore the Learning Hub](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)**
-
----
-
-## Featured AI & Documentation Projects
+<td width="50%">
 
 ### AI Release Note Workflow
 
-An AI-powered documentation workflow exploring how release information can be transformed into structured, customer-friendly release notes.
+An AI-powered workflow exploring how release information can move through:
 
 **Collect → Analyze → Write → Review → Draft → Publish**
 
-Technologies and concepts explored include:
+Built as a practical exploration of AI agents, automation and documentation workflows.
 
-`Python` · `GitHub` · `GitHub Actions` · `AI Agents` · `Prompt Engineering` · `MCP`
+**[View project →](https://github.com/Riffat786/ai-release-note-workflow)**
 
-➡️ [View the repository](https://github.com/Riffat786/ai-release-note-workflow)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### AI Release Note Generator
 
 An experimental project exploring AI-assisted release-note generation and documentation automation.
 
-➡️ [View the repository](https://github.com/Riffat786/AI-Release-Note-Generator)
+**[View project →](https://github.com/Riffat786/AI-Release-Note-Generator)**
 
----
+</td>
+
+<td width="50%">
 
 ### AI Learning Lab
 
-A space for experiments, exercises and practical exploration from my AI learning journey.
+Experiments, exercises and practical work from my AI learning journey.
 
-➡️ [View the repository](https://github.com/Riffat786/ai-learning-lab)
+**[View project →](https://github.com/Riffat786/ai-learning-lab)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Documentation & Technology
+## 🛠️ Technology & Skills
 
 ### Documentation
 
-`Docs-as-Code` · `Markdown` · `API Documentation` · `DITA XML`
-`Information Architecture` · `Knowledge Management` · `Single-source Publishing`
-`Topic-based Authoring` · `Online Help` · `eLearning`
+<img src="https://img.shields.io/badge/Docs--as--Code-4A90E2?style=flat-square">
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/API%20Documentation-6F42C1?style=flat-square">
+<img src="https://img.shields.io/badge/DITA%20XML-555555?style=flat-square">
+<img src="https://img.shields.io/badge/Information%20Architecture-2D333B?style=flat-square">
 
 ### Docs-as-Code & Publishing
 
-`Git` · `GitHub` · `GitHub Actions` · `Docusaurus` · `MkDocs`
-`Document360` · `MadCap Flare` · `Crowdin`
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square">
+<img src="https://img.shields.io/badge/MkDocs-526CFE?style=flat-square">
+<img src="https://img.shields.io/badge/Document360-4A90E2?style=flat-square">
 
 ### AI
 
-`Claude Code` · `Claude Cowork` · `ChatGPT` · `Copilot`
-`Prompt Engineering` · `Agentic AI` · `MCP`
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square">
+<img src="https://img.shields.io/badge/Claude%20Cowork-D97757?style=flat-square">
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6F42C1?style=flat-square">
+<img src="https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square">
+<img src="https://img.shields.io/badge/MCP-2D333B?style=flat-square">
 
 ### Engineering & Collaboration
 
-`Python` · `APIs` · `Azure DevOps` · `Jira` · `ServiceNow`
-`Git` · `Bitbucket` · `Agile` · `Scrum` · `CI/CD`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/APIs-2D333B?style=flat-square">
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
 
 ---
 
 ## Career Snapshot
 
-### Getinge — Chapter Lead / Senior Technical Writer
-
-**2023 – Present**
-
-Leading documentation strategy and people-related responsibilities while driving improvements in documentation processes, approval workflows, working methods and cross-functional collaboration.
-
-Current work includes documentation tooling, Docs-as-Code exploration, AI-assisted documentation, agent workflows, Prompt Engineering, Azure DevOps, Document360 and localization workflows.
-
-### Bühler Group — Documentation Team Lead / Senior Technical Writer
-
-**2019 – 2023**
-
-Led and mentored a globally distributed technical writing team and worked across business units to align documentation, improve processes and support documentation transformation initiatives.
-
-### CapaSystems — Senior Technical Writer
-
-**2017 – 2019**
-
-Worked with software documentation, Online Help, eLearning, API documentation, single-source publishing, topic-based authoring, HTML/CSS/XML, Git, Bitbucket and Agile development processes.
-
-### Earlier Experience
-
-My earlier career includes technical writing, IT service management, service documentation, web content, process documentation, project coordination and IT support.
+<table>
+<tr>
+<td><strong>2023 → Present</strong></td>
+<td><strong>Getinge</strong><br>Chapter Lead · Senior Technical Writer</td>
+</tr>
+<tr>
+<td><strong>2019 → 2023</strong></td>
+<td><strong>Bühler Group</strong><br>Documentation Team Lead · Senior Technical Writer</td>
+</tr>
+<tr>
+<td><strong>2017 → 2019</strong></td>
+<td><strong>CapaSystems</strong><br>Senior Technical Writer</td>
+</tr>
+<tr>
+<td><strong>Earlier Career</strong></td>
+<td>Technical Writing · IT Service Management · Web Content · Project Coordination · IT Support</td>
+</tr>
+</table>
 
 ---
 
-## Certifications & Continuous Learning
+## Certifications & Learning
 
-* **AI Certified Technical Writer**
-* **Claude 101**
-* **Claude Cowork**
-* **Introduction to Agent Skills**
-* Docs-as-Code
-* Git & GitHub
-* Markdown
-* APIs & API Documentation
-* AI-assisted documentation
-* Agentic AI
-* GitHub Actions and CI/CD
+**AI Certified Technical Writer** · **Claude 101** · **Claude Cowork** · **Introduction to Agent Skills**
 
----
+Currently exploring:
 
-## What I'm Learning & Building
-
-I'm continuing to develop the technical skills needed to bring documentation closer to modern engineering workflows.
-
-```text
-Technical Writing
-      ↓
-Documentation Strategy
-      ↓
-Docs-as-Code
-      ↓
-Git & GitHub
-      ↓
-CI/CD & Automation
-      ↓
-APIs & Developer Workflows
-      ↓
-AI-assisted Documentation
-      ↓
-Agentic AI & MCP
-```
-
-The goal isn't simply to use AI to write documentation.
-
-It's to explore how **documentation itself can become part of an intelligent, automated and maintainable engineering workflow**.
+`Docs-as-Code` · `Git & GitHub` · `APIs` · `CI/CD` · `AI` · `Agentic AI` · `MCP` . `Prompt Engineering`
 
 ---
 
 ## Explore My Work
 
-|                                |                                                                                                   |
-| ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| **Documentation Portfolio** | [Explore my documentation work](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) |
-| **Portfolio & CV**          | [View my professional portfolio](https://riffat786.github.io/portfolio/)                          |
-| **Learning Hub**            | [Explore my learning journey](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)            |
-| **AI Projects**             | [View my GitHub projects](https://github.com/Riffat786)                                           |
-| **LinkedIn**                | [Connect with me](https://www.linkedin.com/in/riffatwyne)                                         |
+<div align="center">
+
+| Documentation                                                              | Career                                        | Learning                                                        | AI                                                      |
+| ----------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| Documentation Portfolio                                                       | Portfolio & CV                                   | Learning Hub                                                       | GitHub Projects                                            |
+| [Explore →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) | [View →](https://riffat786.github.io/portfolio/) | [Learn →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/) | [Explore →](https://github.com/Riffat786?tab=repositories) |
+
+</div>
 
 ---
 
-### Documentation. Technology. AI. Continuous Learning.
+<div align="center">
 
-I'm interested in how we can build documentation systems that are **more useful for users, easier for teams to maintain, and better integrated with the way software is built.**
+### Documentation · Technology · AI · Continuous Learning
 
----
+**Building documentation systems that are useful for people, maintainable for teams, and connected to the way software is built.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/riffatwyne">
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect">
+</a>
+
+</div>

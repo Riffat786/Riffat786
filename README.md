@@ -37,9 +37,9 @@ Docs-as-Code, AI automation, and agentic systems.
 
 <br>
 
-![Documentation](https://img.shields.io/badge/Documentation-Expert-4A90E2?style=flat)
-![Docs--as--Code](https://img.shields.io/badge/Docs--as--Code-Practitioner-6F42C1?style=flat)
-![AI-Assisted-Writing](https://img.shields.io/badge/AI--Assisted--Writing-Active-161B22?style=flat)
+![Documentation Expert](https://img.shields.io/badge/Documentation-Expert-4A90E2?style=for-the-badge&logoColor=white)
+![Docs-as-Code Practitioner](https://img.shields.io/badge/Docs--as--Code-Practitioner-6F42C1?style=for-the-badge&logoColor=white)
+![AI-Assisted Writing](https://img.shields.io/badge/AI--Assisted--Writing-Active-161B22?style=for-the-badge&logoColor=white)
 
 </div>
 

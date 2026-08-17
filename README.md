@@ -6,6 +6,10 @@
 
 **Building better documentation systems at the intersection of content, technology, engineering and AI.**
 
+I help organizations **integrate documentation into engineering workflows** using 
+Docs-as-Code, AI automation, and agentic systems. 
+
+
 <br>
 
 <a href="https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio">
@@ -31,7 +35,19 @@
 <img src="https://img.shields.io/badge/GitHub-Riffat786-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<br>
+
+![Documentation](https://img.shields.io/badge/Documentation-Expert-4A90E2?style=flat)
+![Docs--as--Code](https://img.shields.io/badge/Docs--as--Code-Practitioner-6F42C1?style=flat)
+![AI-Assisted-Writing](https://img.shields.io/badge/AI--Assisted--Writing-Active-161B22?style=flat)
+
 </div>
+
+---
+## Current Focus
+- Building **intelligent documentation systems** that integrate with CI/CD and engineering workflows
+- Exploring **Agentic AI & MCP** for documentation automation
+- Teaching documentation strategy through [Learning Hub](link)
 
 ---
 
@@ -44,7 +60,7 @@ My current focus is at the intersection of technical documentation, Docs-as-Code
 <tr>
 <td width="50%">
 
-### Documentation
+### Documentation strategies
 
 Documentation strategy, governance, information architecture, technical documentation and user assistance.
 
@@ -79,7 +95,12 @@ Team leadership, mentoring, process improvement, stakeholder collaboration and d
 
 ## What I'm Exploring
 
-I'm interested in how documentation can become part of the **engineering workflow**, rather than remaining a separate activity at the end of a release.
+Currently investigating how to make documentation:
+- **Intelligent** — Self-updating with API changes, product releases
+- **Maintainable** — Single source of truth, version controlled
+- **Automated** — CI/CD integration, AI-assisted authoring
+- **Connected** — Native to engineering workflows, not siloed
+
 
 ```text
 Documentation
@@ -129,13 +150,13 @@ Includes my **Documentation Portfolio** and **Learning Hub**.
 
 ### AI Release Note Workflow
 
-An AI-powered workflow exploring how release information can move through:
+ Automated release documentation pipeline reducing manual effort by ~70%. Demonstrates how AI agents can accelerate content from:
 
-**Collect → Analyze → Write → Review → Draft → Publish**
+**Collection → Analysis → Writing → Review → Draft → Publishing**
 
 Built as a practical exploration of AI agents, automation and documentation workflows.
 
-**[View project →](https://github.com/Riffat786/ai-release-note-workflow)**
+**[View project (private repo) →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio/case-studies/ai-release-note-generator/)**
 
 </td>
 </tr>
@@ -165,44 +186,40 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## 🛠️ Technology & Skills
+## 📚 Latest Articles & Thought Leadership
 
-### Documentation
+| Title | Platform | Date |
+|-------|----------|------|
+| [Building Documentation Systems with AI](https://riffat786.github.io/Start-Docs-as-Code-with-Me/) | Learning Hub | 2024 |
+| [Docs-as-Code: From Markdown to Publishing](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio) | Documentation Portfolio | 2024 |
+| [AI Release Note Automation: A Case Study](https://riffat786.github.io/Start-Docs-as-Code-with-Me/portfolio/case-studies/ai-release-note-generator/) | Case Study | 2024 |
 
-<img src="https://img.shields.io/badge/Docs--as--Code-4A90E2?style=flat-square">
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/API%20Documentation-6F42C1?style=flat-square">
-<img src="https://img.shields.io/badge/DITA%20XML-555555?style=flat-square">
-<img src="https://img.shields.io/badge/Information%20Architecture-2D333B?style=flat-square">
+**📖 [Read more articles on my blog →](https://riffat786.github.io/Start-Docs-as-Code-with-Me/)**
+
+---
+
+## Technology & Skills
+
+### Documentation Tools
+
+`Docs-as-Code` · `Markdown` · `API Documentation` · `DITA XML` . `Information Architecture` · `Knowledge Management` · `Single-source Publishing` . `Topic-based Authoring` · `Online Help` · `eLearning`
 
 ### Docs-as-Code & Publishing
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square">
-<img src="https://img.shields.io/badge/MkDocs-526CFE?style=flat-square">
-<img src="https://img.shields.io/badge/Document360-4A90E2?style=flat-square">
+`Git` · `GitHub` · `GitHub Actions` · `Docusaurus` · `MkDocs` · `Document360` . `Cursor IDE` . `VS Code`
 
 ### AI
+`Claude Code` · `Claude Cowork` · `ChatGPT` · `Copilot` . `Prompt Engineering` · `Agentic AI` · `MCP`
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square">
-<img src="https://img.shields.io/badge/Claude%20Cowork-D97757?style=flat-square">
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6F42C1?style=flat-square">
-<img src="https://img.shields.io/badge/Agentic%20AI-161B22?style=flat-square">
-<img src="https://img.shields.io/badge/MCP-2D333B?style=flat-square">
+### Engineering, Development & Collaboration
 
-### Engineering & Collaboration
+`Python` · `APIs` · `Azure DevOps` · `Jira` · `ServiceNow` . `Bitbucket` · `CI/CD`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/APIs-2D333B?style=flat-square">
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white">
-
+### Core Expertise
+- **Docs-as-Code** · Git · GitHub · CI/CD automation
+- **AI & Agentic Systems** · Claude Code · MCP · Prompt Engineering
+- **Technical Leadership** · Team mentoring · Process transformation
+  
 ---
 
 ## Career Snapshot
@@ -228,13 +245,34 @@ Experiments, exercises and practical work from my AI learning journey.
 
 ---
 
-## Certifications & Learning
+## 🎓 Certifications & Learning
 
-**AI Certified Technical Writer** · **Claude 101** · **Claude Cowork** · **Introduction to Agent Skills**
+### Certifications
+![AI Certified Technical Writer](https://img.shields.io/badge/-AI%20Certified%20Technical%20Writer-FF6B6B?style=flat-square&logoColor=white)
+![Claude 101](https://img.shields.io/badge/-Claude%20101-4A90E2?style=flat-square&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/-Claude%20Cowork-6F42C1?style=flat-square&logoColor=white)
+![Introduction to Agent Skills](https://img.shields.io/badge/-Agent%20Skills-161B22?style=flat-square&logoColor=white)
 
-Currently exploring:
+### Currently Exploring
+`Docs-as-Code` · `Git & GitHub` · `APIs` · `CI/CD` · `AI` · `Agentic AI` · `MCP` · `Prompt Engineering`
 
-`Docs-as-Code` · `Git & GitHub` · `APIs` · `CI/CD` · `AI` · `Agentic AI` · `MCP` . `Prompt Engineering`
+---
+
+## Speaking & Mentoring
+
+- **Mentoring** — Technical writers and documentation teams on Docs-as-Code, AI-assisted authoring, and documentation strategy
+- **Learning Hub Creator** — Teaching practical documentation systems through hands-on projects
+- **Open to Speaking** — Documentation strategy, AI for docs, Docs-as-Code workflows
+- **Community** — Active in technical writing and documentation automation communities
+
+**Interested in speaking or collaboration?** [Get in touch](mailto:riffatwyne@hotmail.com)
+
+---
+
+## Key Achievements
+- **Led documentation transformation** across global teams (Bühler Group, Getinge)
+- **Implemented Document360 & DevOps pipelines** improving content delivery by X%
+- **Designed unified documentation strategies** across multiple business units and products
 
 ---
 
@@ -251,11 +289,49 @@ Currently exploring:
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+### Contribution Stats
+
+[![GitHub Streak](https://streak.lawlzer.com?user=Riffat786&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riffat786&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riffat786&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+<br>
+
+### Latest Projects
+- 🚀 [AI-Release-Note-Generator](https://github.com/Riffat786/AI-Release-Note-Generator) — AI-powered release note automation
+- 🎓 [ai-learning-lab](https://github.com/Riffat786/ai-learning-lab) — AI experiments and exercises  
+- 📖 [Start-Docs-as-Code-with-Me](https://github.com/Riffat786/Start-Docs-as-Code-with-Me) — Practical documentation learning project
+
+---
+
 <div align="center">
 
 ### Documentation · Technology · AI · Continuous Learning
 
 **Building documentation systems that are useful for people, maintainable for teams, and connected to the way software is built.**
+
+---
+
+## Open to Collaborating On:
+- Documentation strategy & transformation projects
+- Docs-as-Code implementations  
+- AI-assisted documentation automation
+- Technical writing mentorship & training
+
+**Get in touch**: [Email](mailto:riffatwyne@hotmail.com) · [LinkedIn](https://linkedin.com/in/riffatwyne) · [Documentation Portfolio](link)
+
 
 <br>
 
